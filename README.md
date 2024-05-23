@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate RTL Engineer</h3>
-<img align="right" alt="img" width="400" src ="![image](https://github.com/Abhishek-Sharma182005/Abhishek-Sharma182005/assets/170612591/0478ce10-5644-4207-9fa3-1aa571c19307)
+<img align="right" alt="img" width="400" src ="https://github.com/Abhishek-Sharma182005/Abhishek-Sharma182005/assets/170612591/0478ce10-5644-4207-9fa3-1aa571c19307
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-sharma182005&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-sharma182005" /> </p>
 
