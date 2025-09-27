@@ -3,7 +3,7 @@
 ![logo](https://github.com/Abhishek-Sharma182005/Abhishek-Sharma182005/blob/main/Abhishek%20Sharma.jpg)
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate RTL Engineer</h3>
+<h3 align="center">A passionate VLSI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-sharma182005&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-sharma182005" /> </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek182005" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek182005?logo=twitter&style=for-the-badge" alt="abhishek182005" /></a> </p>
 
-- 🔭 I’m currently working at **FlexiGate Technologies**
+- 🔭 I’m currently working at **Coverify Technologies**
 
 - 🌱 I’m currently learning **RTL, SystemVerilog, and Analog Designs**
 
